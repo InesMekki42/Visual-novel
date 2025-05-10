@@ -9,5 +9,7 @@ Ce jeu a été réalisé comme projet d'entraînement sur Ren'Py. C'est mon prem
 
 ## À venir
 |-> Ajout de choix multiples
+
 |-> Musique et sons
+
 |-> Export Itch.io
